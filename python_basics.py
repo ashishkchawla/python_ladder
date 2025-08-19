@@ -11,8 +11,8 @@ This script covers essential Python concepts with explanations, examples, and pr
 # - Comments start with #
 # - Variables are dynamically typed
 
-# Example
-print("\nExample:")
+# Examples
+print("\nExamples:")
 print("Hello, World!")  # This prints a string
 result = 5 + 3
 print(f"5 + 3 = {result}")
